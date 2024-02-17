@@ -1,0 +1,148 @@
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\prolab3.exe
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\prolab3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\C#\prolab3\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\prolab3.exe
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\prolab3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\Mustafa Dizar\Desktop\prolab3\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\prolab3.exe
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\prolab3.dll
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\prolab3.pdb
+C:\Users\Ecemm\Desktop\prolab3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.dll
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.pdb
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\Ecemm\Desktop\prolab3\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.exe
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.exe
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son\ProLab3Son\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.exe
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.pdb
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\Mustafa Dizar\Desktop\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.exe
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\C#\ProLab3Son01.01\ProLab3Son\ProLab3Son\obj\Debug\net8.0\ref\prolab3.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.exe
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.deps.json
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.runtimeconfig.json
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\refint\prolab3.dll
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.pdb
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\prolab3.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\ProLab3Son\ProLab3Son\obj\Debug\net8.0\ref\prolab3.dll

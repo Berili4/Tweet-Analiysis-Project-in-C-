@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUGT30VqhZcllJXSGRPWtQlh7fKy2JPOlj4zzwfa1IhaxPOGCUO9W+c8vXb8HgH6//k47RtZhIbiBZ31RKWsqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MONSTER\\Desktop\\ProLab3Son\\ProLab3Son\\prolab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTER\\.nuget\\packages\\documentformat.openxml\\3.0.0\\documentformat.openxml.3.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTER\\.nuget\\packages\\documentformat.openxml.framework\\3.0.0\\documentformat.openxml.framework.3.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\MONSTER\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
